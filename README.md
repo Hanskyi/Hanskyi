@@ -51,7 +51,10 @@ My goal is to become a skilled developer who creates high-quality, innovative, a
 </div>  
 
 <br/>  
+<br>
+[![codewars](https://www.codewars.com/users/Hanskyi/badges/large)](https://www.codewars.com/users/Hanskyi)   
 
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
