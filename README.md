@@ -21,24 +21,6 @@
 
 My goal is to become a skilled developer who creates high-quality, innovative, and useful web applications. I'm ready for new challenges and strive for continuous improvement of my skills.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -81,16 +63,6 @@ My goal is to become a skilled developer who creates high-quality, innovative, a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanskyi&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
 <br/>  
 
 
