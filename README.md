@@ -52,7 +52,9 @@ My goal is to become a skilled developer who creates high-quality, innovative, a
 
 <br/>  
 <br>
-[![codewars](https://www.codewars.com/users/Hanskyi/badges/large)](https://www.codewars.com/users/Hanskyi)   
+
+[![codewars](https://www.codewars.com/users/Hanskyi/badges/large)](https://www.codewars.com/users/Hanskyi)
+[![Profile badge](https://www.codewars.com/users/Hanskyi/badges/large)](https://www.codewars.com/users/Hanskyi)
 
 <br/>
 
